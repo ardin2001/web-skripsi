@@ -12,13 +12,13 @@
 <ol>
 <li>Halaman Awal</li>
   
-![no1](/screenshots/image1.jpg)
+![no1](/screenshots/image1.png)
 
 <li>Halaman Error</li>
   
-![no2](/screenshots/image2.jpg)
+![no2](/screenshots/image2.png)
 
 <li>Halaman Success</li>
   
-![no3](/screenshots/image3.jpg)
+![no3](/screenshots/image3.png)
 </ol>
