@@ -1,0 +1,27 @@
+# Lingkungan Virtual
+.venv/Lib
+
+# File konfigurasi lokal
+config.py
+instance/
+
+# File yang dihasilkan secara otomatis
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File log
+*.log
+
+# File database lokal
+*.sqlite3
+
+# File dan direktori dari editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# File lingkungan
+.env
